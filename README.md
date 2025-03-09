@@ -51,7 +51,7 @@ A secure and feature-rich Node.js backend for e-commerce applications. This proj
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-backend.git
+   git clone https://github.com/Nouridin/ecommerce-backend.git
    cd ecommerce-backend
    ```
 
